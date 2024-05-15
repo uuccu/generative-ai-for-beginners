@@ -2,6 +2,6 @@ name: <environment-name>
 channels:
  - defaults
 dependencies:
-- python=<python-version>
+- python=3.11
 - openai
 - python-dotenv
